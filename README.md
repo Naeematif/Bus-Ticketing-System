@@ -1,5 +1,5 @@
 # Bus-Ticketing-System
 
-##Project Description
+## Project Description
 
 This project contains infromation about the system
